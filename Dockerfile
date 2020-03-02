@@ -36,3 +36,4 @@ RUN install-plugins.sh \
     git \
     cloudbees-bitbucket-branch-source \
     github-organization-folder
+    git config --global http.sslVerify false
